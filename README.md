@@ -6,3 +6,4 @@
 "login 1"
 "login2"
 "login 3"
+"cadastro 1" 
